@@ -2934,7 +2934,7 @@
 
 	#banner {
 		padding:18em 0 24em 0;
-		background-image: url('https://sin-yao.github.io/MOOCs-F/images/NTU.jpg');
+		background-image: url('https://sin-yao.github.io/MOOCs-F/images/NTU.jpeg');
 		background-size: cover;
 		background-position: top;
 		background-attachment: fixed;
@@ -2950,7 +2950,7 @@
 			color: #000000;
 			line-height: 1em;
 			margin: 0 0 0.5em 0;
-			padding:0 0 15em 0;
+			padding:0;
 		}
 
 		#banner p {
