@@ -2765,6 +2765,7 @@
 			color: #ffffff;
 			text-decoration: none;
 			font-size: 1em;
+			font-weight: 400;
 		}
 
 			#header a:hover {
@@ -2940,7 +2941,7 @@
 		background-attachment: fixed;
 		background-repeat: no-repeat;
 		text-align: center;
-		border-top: 0em solid #5385c1;
+		
 	}
 
 		#banner h1 {
