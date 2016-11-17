@@ -2934,14 +2934,14 @@
 /* Banner */
 
 	#banner {
-		padding:12em 0 10em 0;
+		padding:0em 0 10em 0;
 		background-image: url('https://sin-yao.github.io/MOOCs-F/images/NTU.jpg');
 		background-size: cover;
 		background-position: top;
 		background-attachment: fixed;
 		background-repeat: no-repeat;
 		text-align: center;
-		
+		border-top: 0em solid #5385c1
 	}
 
 		#banner h1 {
