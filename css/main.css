@@ -2933,7 +2933,7 @@
 /* Banner */
 
 	#banner {
-		padding:24em 0 24em 0;
+		padding:20em 0 20em 0;
 		background-image: url('https://sin-yao.github.io/MOOCs-F/images/NTU.jpg');
 		background-size: cover;
 		background-position: top;
@@ -2946,7 +2946,7 @@
 		#banner h1 {
 			font-size: 3.5em;
 			font-weight: 100;
-			color: #fff;
+			color: #1a1aff;
 			line-height: 1em;
 			margin: 0 0 0.5em 0;
 			padding: 0;
