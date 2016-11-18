@@ -2179,7 +2179,7 @@
 /* Box */
 
 	.box {
-		
+		border: solid 1px #dbdbdb;
 		margin-bottom: 2em;
 		padding: 1.5em;
 	}
